@@ -32,7 +32,7 @@ const Sidebar = () => {
             <img src={topic} alt="profilePic" />
           </div>
           <div className="imageHolder">
-            <img src={history} alt="profilePic" />
+            <img src={history} alt="profilePicture" />
           </div>
           <div className="imageHolder">
             <img src={pager} alt="profilePic" />
