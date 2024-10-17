@@ -1,0 +1,50 @@
+.Sidebar {
+  width: 96px;
+  height: 100%;
+  padding: 12px 0px 12px 0px;
+  gap: 32px;
+  border-right: 1px solid #85858533;
+
+}
+.TopBox {
+  border-bottom: 1px solid #85858533;
+}
+.doubleArrowIcon {
+  color: #24242480;
+  padding: 5px;
+}
+.BottomBox {
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+
+}
+.icons {
+  height: 328px;
+  padding: 0px 24px 0px 24px;
+  gap: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.accountAndProfileIcon {
+  height: 80px;
+  padding: 0px 24px 0px 24px;
+  gap: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.imageHolder {
+  height: 24px;
+  width: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
